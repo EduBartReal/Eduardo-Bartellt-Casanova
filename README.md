@@ -54,16 +54,6 @@ Se existe algo novo pra aprender, pode ter certeza que eu já abri uma aba sobre
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduBartReal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduBartReal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB)
-
 </div>
 
 ---
